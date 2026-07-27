@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repo
 <br>
-Author - Prajwal Nekar
+Author - Prajwal Nekar(vs4u)
